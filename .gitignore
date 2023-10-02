@@ -1,3 +1,18 @@
+.project
+.cproject
+.settings/
+
+# IDEs
+.vs/
+.idea/
+
+# CMake
+cmake-build-debug/
+
+build/
+sdkconfig
+sdkconfig.old
+
 # Prerequisites
 *.d
 
